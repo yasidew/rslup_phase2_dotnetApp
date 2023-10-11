@@ -1,2 +1,2 @@
-# rslup_phase2_dotnettApp
+# rslup_phase2_dotnetApp
 Basic Asp.net app
