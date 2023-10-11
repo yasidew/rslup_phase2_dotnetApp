@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\ydewm\\OneDrive\\Desktop\\RS\\asp.net test\\dotnetApp\\wwwroot\\images\\airline.png",
+      "PackagePath": "staticwebassets\\images\\airline.png"
+    },
+    {
       "Id": "C:\\Users\\ydewm\\OneDrive\\Desktop\\RS\\asp.net test\\dotnetApp\\wwwroot\\images\\coffe-maker.jpg",
       "PackagePath": "staticwebassets\\images\\coffe-maker.jpg"
     },

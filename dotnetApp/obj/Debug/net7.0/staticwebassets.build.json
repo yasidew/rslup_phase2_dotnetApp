@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nTrVsE/28sc1aolvjqhtaOTsSMO7EQ7IrlSOGnQUS04=",
+  "Hash": "Pa2nAVN5y87XDvpYrT8po4BFzD9w3yjdb7biGRNFq1k=",
   "Source": "dotnetApp",
   "BasePath": "_content/dotnetApp",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\ydewm\\OneDrive\\Desktop\\RS\\asp.net test\\dotnetApp\\wwwroot\\images\\airline.png",
+      "SourceId": "dotnetApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ydewm\\OneDrive\\Desktop\\RS\\asp.net test\\dotnetApp\\wwwroot\\",
+      "BasePath": "_content/dotnetApp",
+      "RelativePath": "images/airline.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\airline.png"
     },
     {
       "Identity": "C:\\Users\\ydewm\\OneDrive\\Desktop\\RS\\asp.net test\\dotnetApp\\wwwroot\\images\\coffe-maker.jpg",
