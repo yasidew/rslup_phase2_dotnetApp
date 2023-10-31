@@ -40,7 +40,7 @@ public class FlightController : ControllerBase
 
     private int GenerateUniqueId()
     {
-        return new Random().Next(1, 10000);
+        return new Random().Next(1, 10000); 
     }
 
 
